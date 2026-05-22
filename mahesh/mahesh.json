@@ -1,0 +1,16 @@
+{
+    "name":"mahesh",
+    "age":20,
+    "location":"hydrabad",
+    "skills":
+            {
+                "cloud":"devops",
+                "AI":"ML",
+                "containerization":"docker",
+                "CI/CD":
+                        [
+                            "jekins",
+                            "GitLAB"
+                        ]
+            }
+}

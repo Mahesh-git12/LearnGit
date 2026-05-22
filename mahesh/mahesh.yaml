@@ -1,0 +1,13 @@
+Profile:
+  name: mahesh
+  age: 20
+  location: hyderabad
+  skills:
+    - cloud
+    - AI
+    - ML
+    - ci/cd :
+        - jenkins
+        - gitlab
+
+
